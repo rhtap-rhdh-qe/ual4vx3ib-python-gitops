@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ual4vx3ib-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ual4vx3ib-python-gitops
